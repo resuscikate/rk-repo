@@ -52,7 +52,6 @@ GEM
     mini_portile2 (2.1.0)
     minima (2.1.0)
       jekyll (~> 3.3)
-    minimal-mistakes-jekyll (4.0.1)
     minitest (5.8.4)
     nokogiri (1.7.0.1)
       mini_portile2 (~> 2.1.0)
@@ -81,10 +80,9 @@ PLATFORMS
 
 DEPENDENCIES
   html-proofer
-  jekyll (~> 3.3.1)
+  jekyll (= 3.3.1)
   jekyll-feed (~> 0.6)
   minima (~> 2.0)
-  minimal-mistakes-jekyll
 
 RUBY VERSION
    ruby 2.3.3p222
