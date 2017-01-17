@@ -10,7 +10,7 @@ if [ $TRAVIS_BRANCH == 'master' ] ; then
     cd _site
     git init
         
-    git remote add deploy "deploy@resuscikate.com:/var/www/rk"
+    git remote add deploy "deploy@178.62.80.203:/var/www/rk"
     git config user.name "resuscikate"
     git config user.email "katejuliabeckett@gmail.com"
     
