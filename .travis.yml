@@ -5,7 +5,7 @@ env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
 addons:
-  ssh_known_hosts: 178.62.80.203
+  ssh_known_hosts: resuscikate.com
 before_install:
   - bash _scripts/install.sh
 script:
