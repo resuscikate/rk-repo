@@ -14,7 +14,7 @@ if [ $TRAVIS_BRANCH == 'master' ] ; then
     git config user.name "resuscikate"
     git config user.email "katejuliabeckett@gmail.com"
     
-    git add -A
+    git add .
     git commit -m "Deploy"
     git push --force deploy master
 else
