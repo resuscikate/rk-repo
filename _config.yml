@@ -24,6 +24,7 @@ version:             1.0.0
 # External gems
 gems:
   - jekyll-feed
+  - jekyll-paginate
 exclude:
   - Gemfile
   - Gemfile.lock
