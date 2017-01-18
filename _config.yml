@@ -9,7 +9,7 @@ title:               Resuscikate
 tagline:             'A casebook of medicine, science, and obsession.'
 description:         'Description'
 url:                 https://resuscikate.com
-baseurl:             '/jekyll/update'
+baseurl:             ''
 paginate:            5
 
 # About/contact
