@@ -9,14 +9,14 @@ title:               Resuscikate
 tagline:             'A casebook of medicine, science, and obsession.'
 description:         'Description'
 url:                 https://resuscikate.com
-baseurl:             ''
+baseurl:             '/jekyll/update'
 paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Kate
+  url:               
+  email:             resuscikate@gmail.com
 
 # Custom vars
 version:             1.0.0
